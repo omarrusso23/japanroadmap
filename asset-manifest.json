@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/japanroadmap/static/css/main.e6c13ad2.css",
+    "main.js": "/japanroadmap/static/js/main.f471a291.js",
+    "index.html": "/japanroadmap/index.html",
+    "main.e6c13ad2.css.map": "/japanroadmap/static/css/main.e6c13ad2.css.map",
+    "main.f471a291.js.map": "/japanroadmap/static/js/main.f471a291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f471a291.js"
+  ]
+}
