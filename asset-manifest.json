@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/japanroadmap/static/css/main.a4c0af80.css",
-    "main.js": "/japanroadmap/static/js/main.8c03b30b.js",
+    "main.css": "/japanroadmap/static/css/main.ac25b210.css",
+    "main.js": "/japanroadmap/static/js/main.9806124d.js",
     "index.html": "/japanroadmap/index.html",
-    "main.a4c0af80.css.map": "/japanroadmap/static/css/main.a4c0af80.css.map",
-    "main.8c03b30b.js.map": "/japanroadmap/static/js/main.8c03b30b.js.map"
+    "main.ac25b210.css.map": "/japanroadmap/static/css/main.ac25b210.css.map",
+    "main.9806124d.js.map": "/japanroadmap/static/js/main.9806124d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c0af80.css",
-    "static/js/main.8c03b30b.js"
+    "static/css/main.ac25b210.css",
+    "static/js/main.9806124d.js"
   ]
 }
